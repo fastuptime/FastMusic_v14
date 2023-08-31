@@ -1,0 +1,36 @@
+{
+  "error": {
+    "dmerror": "Vous ne pouvez pas utiliser cette commande via DM",
+    "notvoicechannel": "Vous n'êtes pas sur un canal audio !",
+    "nosonglist": "Il n'y a pas encore de chanson dans la liste",
+    "musicalreadystoped": "La musique s'est déjà arrêtée",
+    "musicalreadyplaying": "La musique est déjà en marche.",
+    "musicerrortitle": "Error",
+    "musicerrordescription": "Une erreur s'est produite pendant la lecture de la musique. Veuillez essayer de taper le nom complet de la chanson.",
+    "nosongqueue": "Aucune chanson trouvée dans la file d'attente",
+    "dataerror" : "Une erreur de données s'est produite. Veuillez réessayer.",
+    "onlyuser" : "Ce bouton n'est disponible que pour la personne qui a tapé la commande."
+  },
+  "succes": {
+    "musicresummed": "Votre chanson a été rouverte avec succès",
+    "tracksplayed": "La musique a commencé",
+    "musicstopped": "Votre chanson a été terminée avec succès.",
+    "musicpaused": "Votre chanson a été mise en pause avec succès.",
+    "musicalreadystoped": "La musique s'est déjà arrêtée.",
+    "songskipsucces": "Chanson passée avec succès.",
+    "songloopon" : "Boucle de chanson ouverte avec succès.",
+    "songloopoff" : "La boucle de la chanson a été fermée avec succès."
+  },
+  "permission": {
+    "missing_permissions": "Vous devez avoir les permissions `{{permission}}` pour utiliser cette commande.",
+    "missing_role": "Vous devez avoir le rôle `{{role}}` pour utiliser cette commande."
+  },
+  "music": {
+    "title": "titre",
+    "author": "auteur",
+    "time": "temps",
+    "views": "vues",
+    "thumbnail": "thumbnail",
+    "video": "Vidéo"
+  }
+}

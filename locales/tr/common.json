@@ -1,0 +1,36 @@
+{
+  "error": {
+    "dmerror": "Bu komutu DM üzerinden kullanamazsınız.",
+    "notvoicechannel": "Bir ses kanalında değilsiniz!",
+    "nosonglist": "Listede henüz bir şarkı yok.",
+    "musicalreadystoped": "Müzik çoktan durdu.",
+    "musicalreadyplaying": "Müzik zaten çalıyor.",
+    "musicerrortitle": "Hata",
+    "musicerrordescription": "Müzik Çalınırken Bir Hata Oluştu Lütfen Şarkının Tam Adını Yazarak Deneyin.",
+    "nosongqueue": "Kuyrukta şarkı bulunamadı.",
+    "dataerror": "Bir veri hatası oluştu. Lütfen tekrar deneyin.",
+    "onlyuser": "Bu düğmeyi yalnızca komutu yazan kişi kullanabilir."
+  },
+  "succes": {
+    "musicresummed": "Şarkınız başarıyla yeniden açıldı.",
+    "tracksplayed": "Müzik Başlatıldı.",
+    "musicstopped": "Şarkınız başarıyla bitirildi.",
+    "musicpaused": "Şarkınız başarıyla duraklatıldı.",
+    "musicalreadystoped": "Müzik çoktan durdu.",
+    "songskipsucces": "Şarkı başarıyla geçildi.",
+    "songloopon": "Şarkı döngüsü başarıyla açıldı.",
+    "songloopoff": "Şarkı döngüsü başarıyla kapatıldı."
+  },
+  "permission": {
+    "missing_permissions": "Bu komutu kullanmak için `{{permission}}` iznine sahip olmalısınız.",
+    "missing_role": "Bu komutu kullanmak için `{{role}}` rolüne sahip olmalısınız."
+  },
+  "music": {
+    "title": "Başlık",
+    "author": "Yazar",
+    "time": "Zaman",
+    "views": "İzlenme",
+    "thumbnail": "Küçük resim",
+    "video": "Video"
+  }
+}

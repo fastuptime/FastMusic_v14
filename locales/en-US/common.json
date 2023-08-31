@@ -1,0 +1,35 @@
+{
+  "error": {
+    "dmerror": "You cannot use this command via DM.",
+    "notvoicechannel": "You are not on an audio channel!",
+    "nosonglist": "There is no song in the list yet.",
+    "musicalreadyplaying": "Music is already playing.",
+    "musicerrortitle": "Error",
+    "musicerrordescription": "There was an Error Playing Music Please Try Typing the Full Name of the Song.",
+    "nosongqueue": "No songs found in the queue",
+    "dataerror": "A data error occurred. Please try again.",
+    "onlyuser": "This button is only available to the person who typed the command."
+  },
+  "succes": {
+    "musicresummed": "Şarkınız başarıyla yeniden açıldı.",
+    "tracksplayed": "Müzik Başlatıldı.",
+    "musicalreadystoped": "The music has already stopped.",
+    "musicstopped": "Your song was successfully finished.",
+    "musicpaused": "Your song was successfully paused.",
+    "songskipsucces": "Song passed successfully.",
+    "songloopon": "Song loop successfully opened.",
+    "songloopoff": "Song loop closed successfully."
+  },
+  "permission": {
+    "missing_permissions": "You need to have `{{permission}}` permissions to use this command.",
+    "missing_role": "You need to have the `{{role}}` role to use this command."
+  },
+  "music": {
+    "title": "Title",
+    "author": "Author",
+    "time": "Time",
+    "views": "Views",
+    "thumbnail": "Thumbnail",
+    "video": "Video"
+  }
+}
